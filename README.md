@@ -1,13 +1,13 @@
 # Nelson Trasatti
 
-Independent AI/ML researcher and founder of [Squlpt](https://squlpt.ai/research). I work on agent delegation, runtime control and inspectable evaluation evidence.
+Independent researcher with interests and expertise across several technical fields, including cybersecurity, and a specialization in agentic AI. My current research focuses on AI agents and artificial intelligence, particularly delegation, runtime control and inspectable evaluation evidence.
 
 ## Research
 
-- [Conserving Delegated Authority](https://squlpt.ai/research/conserving-delegated-authority): a bounded empirical implementation study of revocation, retries and useful completion.
-- [Assurance Beyond Task Success](https://squlpt.ai/research/assurance-beyond-task-success).
-- [Revocation-Aware Retrieval](https://squlpt.ai/research/revocation-aware-retrieval).
-- [Claim-Level Evidence Under Revision](https://squlpt.ai/research/claim-level-evidence).
+- Conserving Delegated Authority: a bounded empirical implementation study of revocation, retries and useful completion.
+- Assurance Beyond Task Success.
+- Revocation-Aware Retrieval.
+- Claim-Level Evidence Under Revision.
 - [Delegation control evidence](https://github.com/T-n-Nelson/delegation-control-evidence): an executed synthetic development pilot, with protocol, exported observations and a standalone metric checker. No new model campaign or external scientific replication is claimed.
 
 ## Selected FG-TIDA contributions
